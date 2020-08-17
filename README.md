@@ -37,7 +37,7 @@
 
   - 计算机操作系统与Linux
   - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
-    其中的有个脚本：for i in {1..10};do head -n 1 tmp.cc >> tmp.cc;done; head tmp.cc | cut -c 7-7
+        其中的有个脚本：for i in {1..10};do head -n 1 tmp.cc >> tmp.cc;done; head tmp.cc | cut -c 7-7
   - [图解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
   - [面试 HTTP ，99% 的面试官都爱问这些问题](https://mp.weixin.qq.com/s/t7ZYT6wBBbFYVBPOSztpRg)
   - [实战！敖丙用“大白鲨”让你看见 TCP](https://mp.weixin.qq.com/s/jTDU-zxP1INTYLpGLypjXQ)
