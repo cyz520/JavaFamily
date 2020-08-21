@@ -40,6 +40,7 @@
         其中的有个脚本：for i in {1..10};do head -n 1 tmp.cc >> tmp.cc;done; head tmp.cc | cut -c 7-7
   - [图解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
   - [面试 HTTP ，99% 的面试官都爱问这些问题](https://mp.weixin.qq.com/s/t7ZYT6wBBbFYVBPOSztpRg)
+        只有三次握手恰好可以确保：客户端和服务端自确认好自己的发送和接收功能是OK的
   - [实战！敖丙用“大白鲨”让你看见 TCP](https://mp.weixin.qq.com/s/jTDU-zxP1INTYLpGLypjXQ)
   - [面试官：换人！他连 TCP 这几个参数都不懂](https://mp.weixin.qq.com/s/ytV7RZSyFXyvPW_lKhv8hw)
   - [TCP 半连接队列和全连接队列满了会发生什么？又该如何应对？](https://mp.weixin.qq.com/s/tRXlq1hErqKQLMMLcxoXvg)
